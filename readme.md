@@ -9,6 +9,6 @@ The PCB is reversed for right side.
 
 Completed keyboards with Chicago Stenographer and  MBK Choc
 keycaps.
-![Keyboard](keyboards.jpg "Complete keyboards)
+![Keyboard](keyboards.jpg "Complete keyboards")
 
 [1]: https://github.com/davidphilipbarr/36keys/tree/master/34Keys/Haigha
