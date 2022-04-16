@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name silk)(type KiCad)(uri /Users/davidbarr/Desktop/36keys/crab/silks.pretty)(options "")(descr ""))
+  (lib (name "silk")(type "KiCad")(uri "/Users/davidbarr/Desktop/36keys/crab/silks.pretty")(options "")(descr ""))
+  (lib (name "calvin")(type "KiCad")(uri "/Users/ashrestha/ashish/Downloads/36keys-master/34Keys/Haigha")(options "")(descr ""))
 )
